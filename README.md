@@ -59,4 +59,4 @@ Testing was executed from a domain-joined workstation using the account `caw.qov
 * **Scalability:** The RBAC model allows for the addition of new users without modifying folder ACLs.
 
 ---
-**Developed by [Taki] | Systems Infrastructure & Security Portfolio**
+**Developed by [Taki] | Systems Infrastructure & IT Operations Portfolio.**
